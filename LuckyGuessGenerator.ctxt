@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LuckyGuessGenerator()
+comment0.text=\n\ Constructor\ with\ no\ parameters.\n
+comment1.params=newNumber
+comment1.target=LuckyGuessGenerator(int)
+comment1.text=\n\ Constructor\ which\ takes\ all\ fields\ as\ parameters.\n
+comment2.params=
+comment2.target=void\ displayRandomNumber()
+comment2.text=\n\ This\ method\ prints\ the\ last\ random\ number\ that\ was\ generated\ or\ \n\ the\ value\ stored\ in\ randomNumber\ if\ the\ generateRandomNumber()\ \n\ has\ not\ yet\ been\ called.\n
+comment3.params=
+comment3.target=void\ generateRandomNumber()
+comment3.text=\n\ This\ method\ generates\ a\ new\ number\ between\ 1\ and\ 5\ (inclusive)\ \n\ and\ stores\ it.\n\ \n\ The\ Math.random()\ method\ is\ used\ to\ generate\ a\ random\ double\ \n\ between\ 0.0\ and\ less\ than\ 1.0.\ It\ is\ then\ multiplied\ by\ 5\ and\ \n\ cast\ as\ an\ integer\ to\ generate\ a\ number\ between\ 0\ and\ 4.\ \n\ Finally\ it\ is\ added\ to\ 1\ to\ generate\ a\ number\ between\ 1\ and\ 5.\n
+comment4.params=
+comment4.target=int\ getRandomNumber()
+comment4.text=\n\ Accessor\ method\ for\ randomNumber\ variable.\n
+comment5.params=newNumber
+comment5.target=void\ setRandomNumber(int)
+comment5.text=\n\ Mutator\ method\ for\ randomNumber\ variable.\n
+numComments=6
