@@ -7,7 +7,7 @@ import java.util.*;
  * Uses the Player and LuckyGuessGenerator classes.
  * 
  * @author Bai Chan Kheo 22262407
- * @version 1.2 23 Apr 2015
+ * @version 1.3 23 Apr 2015
  */
 public class Game
 {
